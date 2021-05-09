@@ -1,0 +1,39 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "this is ticket systeam bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VisalPaing/Discord-ticket-systeam-bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "ticket-bot-systeam",
+    "free-source-code-discord-bot",
+    "eren",
+    "meezy",
+    "ticket-bot-discord.js"
+  ],
+  "author": "meezy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VisalPaing/Discord-ticket-systeam-bot/issues"
+  },
+  "homepage": "https://github.com/VisalPaing/Discord-ticket-systeam-bot#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "date-and-time": "^1.0.0",
+    "discord.js": "^12.5.3",
+    "hastebin": "^0.2.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "parse-ms": "^3.0.0",
+    "quick.db": "^7.1.3",
+    "randomstring": "^1.1.5"
+  }
+}
